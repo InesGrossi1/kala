@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://acl2020.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acl2020.org/" rel="alternate" type="text/html" /><updated>2026-08-20T17:37:41+00:00</updated><id>https://acl2020.org/feed.xml</id><title type="html">ACL 2020</title><subtitle>Official website for the 2020 Annual Conference of the Association for Computational Linguistics</subtitle><author><name>Your Name</name></author><entry><title type="html">Best Paper Awards at ACL 2020</title><link href="https://acl2020.org/blog/ACL-2020-best-papers/" rel="alternate" type="text/html" title="Best Paper Awards at ACL 2020" /><published>2020-07-08T00:00:00+00:00</published><updated>2020-07-08T00:00:00+00:00</updated><id>https://acl2020.org/blog/ACL-2020-best-papers</id><content type="html" xml:base="https://acl2020.org/blog/ACL-2020-best-papers/"><![CDATA[<p>Congratulations to the recipients of the best paper awards at ACL 2020!</p>
+
+<h2 id="best-paper">Best Paper</h2>
+
+<p><b>Beyond Accuracy: Behavioral Testing of NLP Models with CheckList</b><br />
+Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin and Sameer Singh</p>
+
+<h2 id="honorable-mention-papers--main-conference">Honorable Mention Papers – Main Conference</h2>
+
+<p><b>Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks</b><br />
+Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey and Noah A. Smith</p>
+
+<p><b>Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics</b><br />
+Nitika Mathur, Timothy Baldwin and Trevor Cohn</p>
+
+<h2 id="best-theme-paper">Best Theme Paper</h2>
+
+<p><b>Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data</b><br />
+Emily M. Bender and Alexander Koller</p>
+
+<h2 id="honorable-mention-paper--theme">Honorable Mention Paper – Theme</h2>
+
+<p><b>How Can We Accelerate Progress Towards Human-like Linguistic Generalization?</b><br />
+Tal Linzen</p>
+
+<h2 id="best-demonstration-paper">Best Demonstration Paper</h2>
+
+<p><b>GAIA: A Fine-grained Multimedia Knowledge Extraction System</b><br />
+Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, BRIAN CHEN, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski and Marjorie Freedman</p>
+
+<h2 id="honorable-mention-papers--demonstrations">Honorable Mention Papers – Demonstrations</h2>
+
+<p><b>Torch-Struct: Deep Structured Prediction Library</b><br />
+Alexander Rush</p>
+
+<p><b>Prta: A System to Support the Analysis of Propaganda Techniques in the News</b><br />
+Giovanni Da San Martino, Shaden Shaar, Yifan Zhang, Seunghak Yu, Alberto Barrón-Cedeño and Preslav Nakov</p>]]></content><author><name>Program Chairs</name><email>ACL2020ProgramChairs@gmail.com</email></author><category term="blog" /><category term="best-paper-awards" /></entry><entry><title type="html">Detailed modalities of the ACL 2020 tutorials</title><link href="https://acl2020.org/blog/detailed-modalities-of-tutorials/" rel="alternate" type="text/html" title="Detailed modalities of the ACL 2020 tutorials" /><published>2020-07-04T00:00:00+00:00</published><updated>2020-07-04T00:00:00+00:00</updated><id>https://acl2020.org/blog/detailed-modalities-of-tutorials</id><content type="html" xml:base="https://acl2020.org/blog/detailed-modalities-of-tutorials/"><![CDATA[<p><b>Tutorial Chairs (Agata Savary and Yue Zhang) and General Chair (Dan Jurafsky), for the entire Organizing Committee</b></p>
+
+<p>ACL 2020 features 8 tutorials on July 5. See the <a href="https://acl2020.org/program/tutorials/">schedule</a> and our <a href="https://acl2020.org/blog/intro-to-tutorial-infrastructure/">previous post</a> for the introduction to the tutorial organisation and infrastructure.</p>
+
+<p>Here we give some further details of the tutorial modalities. Different modalities apply to different tutorials in three stages: <b>before, during</b> and <b>after</b> the tutorial. Please, read them carefully before attending. Recall that a registration is compulsory to attend any ACL 2020 event.</p>
+
+<p>Tutorial materials are available <b>in advance</b> on the virtual conference website (from <b>July 3</b>). For some tutorials - T1, T3 and T5 - 
+it is necessary to <b>watch the pre-recordings in advance</b>, since the live sessions will only feature question answering. 
+For other tutorials, pre-recordings or pdf slides are also available and it is recommended (even if not compulsory) to watch them and <b>prepare questions</b>, 
+which you can ask on the RocketChat channel of each individual tutorial.</p>
+
+<p>The modalities of the <b>live sessions</b> greatly differ from one tutorial to another. Please check all the details in the table below.</p>
+
+<p><b>Disclaimer</b>: Last-minute changes might apply. For the latest updates, please, watch the webpages of the tutorials you wish to attend.</p>
+
+<h3 id="before-the-tutorials">Before the tutorials</h3>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/modalities-before-tutorials.png" title="">
+        <img src="/assets/images/blogs/modalities-before-tutorials.png" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<h3 id="during-the-tutorials">During the tutorials</h3>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/modalities-during-tutorials.png" title="">
+        <img src="/assets/images/blogs/modalities-during-tutorials.png" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<h3 id="after-the-tutorials">After the tutorials</h3>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/modalities-after-tutorials.png" title="">
+        <img src="/assets/images/blogs/modalities-after-tutorials.png" alt="" />
+      </a>
+    
+  
+  
+</figure>]]></content><author><name>Tutorial Chairs</name><email>agata.savary@univ-tours.fr &amp;amp; yue.zhang@wias.org.cn</email></author><category term="blog" /><category term="virtual" /><category term="infrastructure" /><category term="tutorials" /><category term="modalities" /></entry><entry><title type="html">Increasing financial accessibility of ACL 2020</title><link href="https://acl2020.org/blog/increasing-financial-accessibility/" rel="alternate" type="text/html" title="Increasing financial accessibility of ACL 2020" /><published>2020-07-04T00:00:00+00:00</published><updated>2020-07-04T00:00:00+00:00</updated><id>https://acl2020.org/blog/increasing-financial-accessibility</id><content type="html" xml:base="https://acl2020.org/blog/increasing-financial-accessibility/"><![CDATA[<p>The Financial Access subcommittee of the ACL 2020 Diversity and Inclusion initiative has been working to increase conference access by reducing the financial burden for conference attendees – particularly researchers from underrepresented geographical regions and demographics.</p>
+
+<p>With the ACL 2020 virtual conference, the contributions of the Financial Access subcommittee fell into two primary categories:</p>
+
+<ol>
+  <li>Arranging, publicizing, and awarding financial subsidies to offset conference costs</li>
+  <li>Obtaining and distributing codes to provide free access to writing support software, for assistance in writing of conference papers</li>
+</ol>
+
+<h3 id="allocating-di-financial-access-subsidies">Allocating D&amp;I financial access subsidies</h3>
+
+<p>With the shift to a virtual format, financial access subsidies did not need to cover large expenses such as travel or lodging. Instead, this year’s subsidies could focus on coverage of conference registration and ACL membership fees. In addition, due to the unique needs of participation in a virtual conference, the subcommittee solicited applications for temporary internet bandwidth subsidies, to assist conference attendees in ensuring sufficient internet bandwidth to participate effectively in the conference.</p>
+
+<p>A positive consequence of the shift to a virtual conference format is the potential for participation by community members who would have been unable to travel to the physical conference location. To take advantage of this change, when soliciting applications for financial subsidies, the subcommittee encouraged applications from all interested community members regardless of whether the prospective attendee had an accepted paper in the conference.</p>
+
+<p>The application for the ACL 2020 D&amp;I financial access subsidy <a href="https://twitter.com/aclmeeting/status/1266532726628184065">went live on May 29</a> and closed on June 7. 
+We also reached out to organizations such as <a href="https://blackinai.github.io/">Black in AI</a>, <a href="https://www.latinxinai.org/">LatinX in AI</a>, <a href="https://africanlp-workshop.github.io/">AfricaNLP</a>, 
+and <a href="https://deeplearningindaba.com">Deep Learning Indaba</a> to disseminate the call for applications. 
+In total, we received 123 applications. In terms of countries of residence of these applicants, the most strongly represented regions were Sub-Saharan Africa (22%), 
+South Asia (20%), US and Canada (18%), and Europe and UK (17%), with fewer applications from Middle East and North Africa, Latin America, Southeast Asia, and East Asia.</p>
+
+<p>In selecting subsidy recipients, the subcommittee considered a number of factors – for example, whether the applicant was a student, was attending a *ACL conference for the first time, came from an underrepresented geographical region, or identified as a member of an underrepresented group.</p>
+
+<p>The subcommittee granted D&amp;I subsidies to 83 applicants, each receiving coverage for some combination of the conference registration fee, ACL membership fee, and internet bandwidth subsidy. In total, we awarded $8750 towards registration and membership fees, and offered another $250 (excluding fund-transfer fees) for internet bandwidth subsidies.</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/number-of-subsidy.png" title="Number of subsidy recipients grouped across different geographical regions with 22 in Sub-Saharan Africa, 14 in Europe and UK, 13 each in South Asia and in US and Canada, 6 in Middle East and North Africa, and 5 each in Latin America, South East Asia, and East Asia.">
+        <img src="/assets/images/blogs/number-of-subsidy.png" alt="Number of subsidy recipients grouped across different geographical regions with 22 in Sub-Saharan Africa, 14 in Europe and UK, 13 each in South Asia and in US and Canada, 6 in Middle East and North Africa, and 5 each in Latin America, South East Asia, and East Asia." />
+      </a>
+    
+  
+  
+</figure>
+<p>Figure 1: Number of subsidy recipients grouped across different geographical regions.</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/number-of-subsidy-map.png" title="World map with countries shown in different shades of green corresponding to more or less subsidy recipients, or gray for no recipients. US and India have darker shades denoting most subsidy recipients — 13 and 12 each. South Africa has 6 subsidy recipients, while Nigeria, Indonesia and Ethiopia all have 5 subsidy recipients each, followed by 23 other countries with fewer subsidy recipients.">
+        <img src="/assets/images/blogs/number-of-subsidy-map.png" alt="World map with countries shown in different shades of green corresponding to more or less subsidy recipients, or gray for no recipients. US and India have darker shades denoting most subsidy recipients — 13 and 12 each. South Africa has 6 subsidy recipients, while Nigeria, Indonesia and Ethiopia all have 5 subsidy recipients each, followed by 23 other countries with fewer subsidy recipients." />
+      </a>
+    
+  
+  
+</figure>
+<p>Figure 2: Number of subsidy recipients across different countries. Darker shades denote more subsidy recipients.</p>
+
+<p>The figures above show the geographical distribution of subsidy recipients. We offered subsidies to researchers from 29 different countries. Subsidy offers to applicants residing in Sub-Saharan Africa made up roughly a quarter of subsidies, with Europe and UK, US, and South Asia constituting the regions with the next most subsidies. Less represented regions included Middle East and North Africa, Latin America, Southeast Asia, and East Asia, each with less than 10 subsidies. We recommend future conferences to continue prioritizing outreach to researchers from underrepresented regions to better bridge the gaps and make our community more inclusive.</p>
+
+<h3 id="providing-access-to-writing-support-software">Providing access to writing support software</h3>
+
+<p>Additionally, to assist with conference attendees’ writing needs, access codes for free use of writing support software were generously provided by <a href="https://www.grammarly.com/">Grammarly</a> and distributed to the corresponding authors of accepted papers for the main conference and some workshops, for assistance in preparing the camera-ready versions. For certain workshops that offer pre-submission mentoring, codes were also provided for use in the pre-submission phase. In total, 1131 access codes enabling use of Grammarly for paper editing were distributed for accepted papers or presubmission papers in the main conference, ACL-Demos, the ACL Student Research Workshop, the WiNLP workshop, and a subset of other workshops that took advantage of this benefit.</p>
+
+<h3 id="concluding-remarks">Concluding remarks</h3>
+
+<p>The Financial Access subcommittee thanks the ACL 2020 D&amp;I Champion sponsors (<a href="https://virtual.acl2020.org/sponsor_5.html">DeepMind</a> and <a href="https://virtual.acl2020.org/sponsor_17.html">Microsoft</a>) and D&amp;I In-Kind sponsor (<a href="https://virtual.acl2020.org/sponsor_10.html">Grammarly</a>) that enabled us to provide financial subsidies to more than 80 conference participants and writing support to over a thousand authors. While the shift to a virtual conference format necessitated a change in approach, the shift ultimately opened the doors for a broader range of researchers in our community. In the future, we recommend considering new ways for integrating virtual access into our conferences, to maximize reaching diverse audiences.</p>]]></content><author><name>D&amp;amp;I Financial Access Chairs</name><email>acl2020-diversity-inclusion-chairs@googlegroups.com</email></author><category term="blog" /><category term="diversity-inclusion" /></entry><entry><title type="html">Virtual Format of Plenary Sessions</title><link href="https://acl2020.org/blog/virtual-format-of-plenary-sessions/" rel="alternate" type="text/html" title="Virtual Format of Plenary Sessions" /><published>2020-07-03T00:00:00+00:00</published><updated>2020-07-03T00:00:00+00:00</updated><id>https://acl2020.org/blog/virtual-format-of-plenary-sessions</id><content type="html" xml:base="https://acl2020.org/blog/virtual-format-of-plenary-sessions/"><![CDATA[<p>The first virtual ACL is quickly approaching!  Several weeks ago we described the format of this new conference in a <a href="https://acl2020.org/blog/intro-to-conference-infrastructure/">blog post</a>.  In this post, we wanted to give you more details about one aspect of the conference, the Plenary Sessions.  All three days of the main conference feature a two-hour plenary session with keynote talks, award sessions, and business and review meetings.  Each plenary starts at 7:00 PDT (14:00 UTC+0). Here is what to expect for each day:</p>
+
+<ul>
+  <li>July 6: Opening Remarks, Presidential Address, Keynote, Business Meeting Q&amp;A</li>
+  <li>July 7: Lifetime Achievement Award, Distinguished Service Award, Test of Time Awards, Review Meeting Q&amp;A</li>
+  <li>July 8: Keynote, Best Paper Awards, Future Conferences, Closing Remarks</li>
+</ul>
+
+<p><b>PLEASE NOTE</b>: Links in this page point to the virtual website <a href="https://virtual.acl2020.org/">https://virtual.acl2020.org/</a>. If you have registered for ACL2020, please wait till the end of July 3rd for your welcome email which will contain your username and password to access the virtual site. Only then you can access the virtual website by following the <a href="https://acl2020.org/_pages/docs/ACL2020_virtual_website_login_steps.pdf">login instructions</a>.</p>
+
+<p>Below we describe these talks. Talks that have been pre-recorded can be viewed under the <a href="https://virtual.acl2020.org/plenary_sessions.html">plenary sessions</a> page whereas the talks that are live streamed can be viewed under the <a href="https://virtual.acl2020.org/livestream.html">livestream</a> page.</p>
+
+<h2 id="keynote-talks">Keynote Talks</h2>
+
+<p>We are very excited to have <a href="https://virtual.acl2020.org/plenary_session_keynote_kathy_mckeown.html">Professor Kathleen McKeown</a> and <a href="https://virtual.acl2020.org/plenary_session_keynote_josh_tenenbaum.html">Professor Josh Tenenbaum</a> speak at the conference. Their talks will be pre-recorded. You can either watch the talk ahead of time or join the live-streamed presentation during the plenary session.</p>
+
+<p>There are two ways for you to ask a question:</p>
+<ul>
+  <li>You can post your questions on the keynote’s respective Rocket Chat channel before the scheduled live-stream presentation. The chat window is next to the pre-recorded video.
+    <ul>
+      <li>For Professor McKeown: <a href="https://virtual.acl2020.org/plenary_session_keynote_kathy_mckeown.html">https://virtual.acl2020.org/plenary_session_keynote_kathy_mckeown.html</a></li>
+      <li>For Professor Tenenbaum: <a href="https://virtual.acl2020.org/plenary_session_keynote_josh_tenenbaum.html">https://virtual.acl2020.org/plenary_session_keynote_josh_tenenbaum.html</a></li>
+    </ul>
+  </li>
+</ul>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/website-screenshots/kathy-keynote.PNG" title="">
+        <img src="/assets/images/website-screenshots/kathy-keynote.PNG" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<ul>
+  <li>You can post your question on the live Rocket Chat channel during the talk and the live QA session. The chat window is immediately below the live-streamed presentation.</li>
+</ul>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/website-screenshots/livestream.PNG" title="">
+        <img src="/assets/images/website-screenshots/livestream.PNG" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<h2 id="award-sessions">Award Sessions</h2>
+
+<h3 id="lifetime-achievement-award-lta-on-tuesday-july-7">Lifetime Achievement Award (LTA) on Tuesday July 7</h3>
+
+<p>This session will be hosted by the ACL president, Professor Hinrich Schuetze. Immediately following a 30 minute livestreamed pre-recorded presentation, there will be a live 15-minute QA session. You can use live Rocket Chat immediately below the livestreamed presentation to post your questions to the awardee.  As the winner of the LTA is a surprise, the presentation can only be accessed during the livestream and questions can only be asked once that begins.</p>
+
+<h3 id="distinguished-service-award-dsa-on-tuesday-july-7">Distinguished Service Award (DSA) on Tuesday July 7</h3>
+
+<p>This session will also be hosted by the ACL president, Professor Hinrich Schuetze. Immediately following a 10 minute livestreamed presentation, there will be a 5-minute QA session. You can use live Rocket Chat immediately below the livestreamed presentation to post your questions to the awardee.</p>
+
+<h3 id="test-of-time-tot-award-on-tuesday-july-7">Test of Time (ToT) Award on Tuesday July 7</h3>
+
+<p>In this session, Professor Barbara Di Eugenio, ACL conference officer, will announce the ToT awardees!  Immediately following the announcement, there will be a live QA session. You can use live Rocket Chat immediately below the livestreamed presentation to post your questions to the awardees.</p>
+
+<h3 id="best-paper-awards-on-wednesday-july-8">Best Paper Awards on Wednesday July 8</h3>
+
+<p>In this session, best paper winners will be announced!! Please come to the session to find out this year’s winners!   There will be no live Q&amp;A or Rocket Chat associated with this session.</p>
+
+<h2 id="business-meeting-qa">Business Meeting Q&amp;A</h2>
+
+<p>The ACL Business Meeting encompasses reports from the many initiatives the community is working on.  Each initiative has a pre-recorded talk at the business meeting. All pre-recorded talks for business the meeting have been combined together as one and can be found here: <a href="https://virtual.acl2020.org/plenary_session_business_meeting.html">https://virtual.acl2020.org/plenary_session_business_meeting.html</a>.</p>
+
+<p>Please submit questions beforehand for the speakers (see below) at the business meeting by sending an email to <a href="mailto:inquiries@cislmu.org">inquiries@cislmu.org</a>, subject “Business Meeting Q&amp;A”.  In addition, questions can be asked during the Live Q&amp;A on the respective Rocket Chat.  During the Plenary, the moderator, Barbara di Eugenio, will ask the questions to the speakers.</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/website-screenshots/business-meeting.PNG" title="">
+        <img src="/assets/images/website-screenshots/business-meeting.PNG" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<h2 id="review-meeting-qa">Review Meeting Q&amp;A</h2>
+
+<p>Reviewing processes are always a hot topic, and this year is no different, especially as our conferences hit record submission numbers.  The goal of this meeting is to get feedback on reviewing at ACL conferences and on a number of proposals that are under discussion.  The following talks are pre-recorded and posted on the virtual website here: <a href="https://virtual.acl2020.org/plenary_session_review_meeting.html">https://virtual.acl2020.org/plenary_session_review_meeting.html</a>.</p>
+
+<p>We encourage you to view them before the session:</p>
+
+<ul>
+  <li>Hinrich Schuetze will give a brief introduction.</li>
+  <li>The ACL 2020 program chairs will talk about innovations in reviewing at ACL 2020.</li>
+  <li>The EMNLP 2020 program chairs will talk about innovations in reviewing at EMNLP 2020.</li>
+  <li>Amanda Stent will first report on COI management and reviewer management and then on the <a href="https://www.aclweb.org/adminwiki/index.php?title=Short-Term_Reform_Proposals_for_ACL_Reviewing">short-term proposals</a> of the ACL reviewing committee.</li>
+  <li>Graham Neubig will present the <a href="https://www.aclweb.org/adminwiki/index.php?title=ACL_Rolling_Review_Proposal">Rolling Review Proposal</a>.</li>
+</ul>
+
+<p>IMPORTANT: please submit questions beforehand for the speakers at the review meeting by sending an email to <a href="mailto:inquiries@cislmu.org">inquiries@cislmu.org</a>, subject “Review Meeting Q&amp;A”.  In addition, questions can be asked during the Live Q&amp;A on the respective Rocket Chat.   As in the Business Meeting Q&amp;A,  the moderator will ask the questions to the speakers.</p>]]></content><author><name>Program Chairs</name><email>ACL2020ProgramChairs@gmail.com</email></author><category term="blog" /><category term="virtual" /><category term="program" /></entry><entry><title type="html">Tips for talking to the media</title><link href="https://acl2020.org/blog/tips-for-talking-to-the-media/" rel="alternate" type="text/html" title="Tips for talking to the media" /><published>2020-07-01T00:00:00+00:00</published><updated>2020-07-01T00:00:00+00:00</updated><id>https://acl2020.org/blog/tips-for-talking-to-the-media</id><content type="html" xml:base="https://acl2020.org/blog/tips-for-talking-to-the-media/"><![CDATA[<p>Below are some tips for talking about your research with the press, from the ACL 2020 Publicity Chairs (Emily M. Bender, Esther Seyffarth, and Zhiyuan Liu)</p>
+
+<ul>
+  <li>Check with your employer/institution first to see if there are any constraints on your speaking with the press about your research. They may also have good tips!</li>
+  <li>The journalist you are speaking with probably has a story in mind that they are planning to write. Try to get a sense of what that story is and who the intended audience is before agreeing to be interviewed.
+    <ul>
+      <li>For example, if the story angle seems to be one that would present your research in unrealistic light (“AI is magic”, “AI is going to solve all the world’s problems”), it is probably not worth engaging. [For ACL 2020, we have tried to connect with journalists who do very serious, realistic writing about NLP and related topics.]</li>
+      <li>Even for story angles that you want to engage with, knowing how your answers will be part of a broader narrative ahead of time can help you prepare.</li>
+      <li>Likewise, understanding who the intended audience is can help you work out which points you want to emphasize and what examples to use.</li>
+    </ul>
+  </li>
+  <li>Before being interviewed, write down the main points you plan to get across and have these handy as you are answering questions.
+    <ul>
+      <li>As academics, we’re used to trying to include all of the details. In this context, what is needed are high-level, main take-away points (that are supported by all the details in your ACL paper).</li>
+      <li>Prioritize the main ideas you want people to learn, and focus on those.</li>
+      <li>Keep in mind that the resulting article will necessarily be a simpler presentation than how you present the ideas to other academics.</li>
+    </ul>
+  </li>
+  <li>Also beforehand, come up with non-technical phrasings of these points that would be suitable for the audience.</li>
+  <li>Pass the mic: If you are from an overrepresented group among NLP researchers, try to find out who else the journalist is interviewing for their piece. If they are only quoting men, or only white people, etc, suggest names of scholars they should also be talking to. It can also be valuable to refuse an interview under these circumstances.</li>
+  <li>You can ask to answer questions in writing, rather than talking on the phone.</li>
+  <li>Journalists will frequently end with “Is there anything else I should have asked?”. Consult your notes that you prepared ahead of time to see if there’s anything else you wanted to convey that you didn’t get to say. Even if they don’t ask, or if they ask a question that’s close to what you want to talk about but not quite, you can offer: “I think a more appropriate question here is…” or “You might also ask me…”</li>
+  <li>Journalists are frequently working on tight deadlines, and so might ask for meetings within hours or a day at most.</li>
+  <li>Unless the piece is specifically a profile of your work, a journalist usually won’t agree to having you review the whole thing before it goes to press. However, it is worth asking whether you can review any direct quotes attributed to you before it goes public.
+    <ul>
+      <li>Here is one example: “Before we start, I understand this is on the record and I don’t have editorial control, but because this is a technical topic where a factual mistake could make both of us look bad, could you agree to let me see direct quotes you attribute to me before you publish so we can avoid such errors.”</li>
+    </ul>
+  </li>
+  <li>If there’s anything specific about how you’d like to be identified (name, affiliation, pronouns), mention it up-front.</li>
+  <li>Know that not every press interview leads to your words being quoted in the media. Journalists often talk to lots of people to put together a story and then choose a subset to quote in what gets published. In other cases, pieces written by journalists don’t get chosen by editors/media outlets.</li>
+  <li>Members of the press attending virtual ACL may be overwhelmed with the amount of information available to them. If your lay summary does not lead to you or your co-authors being contacted by a journalist, this does not imply a judgment of the value of your work! If you’re proud of your summary, you could consider posting it as a blog post somewhere or publishing it in your institution to let your colleagues know what you’ve been working on.</li>
+</ul>]]></content><author><name>Publicity Chairs</name><email>ACL2020publicity@uw.edu</email></author><category term="blog" /><category term="media" /></entry><entry><title type="html">Introduction to the organization and infrastructure of ACL 2020 tutorials</title><link href="https://acl2020.org/blog/intro-to-tutorial-infrastructure/" rel="alternate" type="text/html" title="Introduction to the organization and infrastructure of ACL 2020 tutorials" /><published>2020-06-19T00:00:00+00:00</published><updated>2020-06-19T00:00:00+00:00</updated><id>https://acl2020.org/blog/intro-to-tutorial-infrastructure</id><content type="html" xml:base="https://acl2020.org/blog/intro-to-tutorial-infrastructure/"><![CDATA[<p><b>Tutorial Chairs (Agata Savary and Yue Zhang) and General Chair (Dan Jurafsky), for the entire Organizing Committee</b></p>
+
+<p><b>NEW:</b> Checkout the new blogpost by tutorial chairs describing <a href="/blog/detailed-modalities-of-tutorials/">detailed modalities of ACL2020 tutorials</a>.</p>
+
+<p>It is our pleasure to give you some more details on the organization and the virtual infrastructure of ACL 2020  tutorials on July 5th!</p>
+
+<p>As mentioned in our earlier <a href="https://acl2020.org/blog/intro-to-conference-infrastructure/">post</a>, we will be using SlidesLive, Zoom, RocketChat and a special web portal for a virtual conference. Our goal is to enable participation around the world and maximize inclusion, engagement, and learning in a safe environment.</p>
+
+<h3>Program</h3>
+
+<p>We are happy to offer 3 introductory and 5 cutting-edge tutorials, taught by outstanding experts in the field and addressing a large diversity of topics:</p>
+<ul>
+  <li>T1: <a href="https://acl2020.org/program/tutorials/#t1-interpretability-and-analysis-in-neural-nlp-cutting-edge-">Interpretability and Analysis in Neural NLP</a> by Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick (cutting-edge)</li>
+  <li>T2: <a href="https://acl2020.org/program/tutorials/#t2-multi-modal-information-extraction-from-text-semi-structured-and-tabular-data-on-the-web-cutting-edge-">Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web</a> by Xin Luna Dong, Hannaneh Hajishirzi, Colin Lockard and Prashant Shiralkar (cutting-edge)</li>
+  <li>T3: <a href="https://acl2020.org/program/tutorials/#t3-reviewing-natural-language-processing-research-introductory-">Reviewing Natural Language Processing Research</a> by Kevin Cohen, Karën Fort, Margot Mieskes and Aurélie Névéol (introductory)</li>
+  <li>T4: <a href="https://acl2020.org/program/tutorials/#t4-stylized-text-generation-approaches-and-applications-cutting-edge-">Stylized Text Generation: Approaches and Applications</a> by Lili Mou and Olga Vechtomova (cutting-edge)</li>
+  <li>T5: <a href="https://acl2020.org/program/tutorials/#t5-achieving-common-ground-in-multi-modal-dialogue-cutting-edge-">Achieving Common Ground in Multi-modal Dialogue</a> by Malihe Alikhani and Matthew Stone (cutting-edge)</li>
+  <li>T6: <a href="https://acl2020.org/program/tutorials/#t6-commonsense-reasoning-for-natural-language-processing-introductory-">Commonsense Reasoning for Natural Language Processing</a> by Maarten Sap, Vered Shwartz, Antoine Bosselut, Yejin Choi, Dan Roth (introductory)</li>
+  <li>T7: <a href="https://acl2020.org/program/tutorials/#t7-integrating-ethics-into-the-nlp-curriculum-introductory-">Integrating Ethics into the NLP Curriculum</a> by Emily M. Bender, Dirk Hovy and Alexandra Schofield (introductory)</li>
+  <li>T8: <a href="https://acl2020.org/program/tutorials/#t8-open-domain-question-answering-cutting-edge-">Open-Domain Question Answering</a> by Danqi Chen and Scott Wen-tau Yih (cutting-edge)</li>
+</ul>
+
+<h3>Schedule</h3>
+
+<p>All the eight tutorials will be given on July 5, as described in the <a href="https://acl2020.org/program/tutorials/">schedule</a>. To increase availability across various time zones, 3 time slots of 3.5 hours each were defined, as shown in the table below (+1 means July 6). Sample zones and cities were chosen for reference, for other places, please, refer to the map.</p>
+
+<p>Some tutorials (T1, T5 and T7) will be given twice, while others (T2, T3, T4, T6 and T8) only once. Each tutorial will include one or more breaks, of 30 minutes in total.</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/tutorial-sessions.png" title="">
+        <img src="/assets/images/blogs/tutorial-sessions.png" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/timezones.PNG" title="">
+        <img src="/assets/images/blogs/timezones.PNG" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<h3>Attendance</h3>
+
+<p>Three modes of attendance will be available (for each of them registration is required - see below):</p>
+<ul>
+  <li>A passive participant will be able to watch a livestreamed tutorial directly from the conference website</li>
+  <li>Asking questions will be possible via chat (with the RocketChat tool)</li>
+  <li>To ask a question or make a comment live, one will have to enter the Zoom call linked from the website</li>
+</ul>
+
+<p>Some live sessions will be recorded. This fact will be notified during the session. Only the attendees who do not mind being recorded should enter the Zoom call. Others may participate passively or ask questions via chat.</p>
+
+<h3>Material</h3>
+
+<p>For all tutorials, the slides (in .pdf format only or with voiced pre-recordings) will be available a <b>few days before</b> the conference, so that the attendees can watch them in advance and <b>prepare questions</b>. The live sessions on July 5 will be of three main types:</p>
+<ul>
+  <li>Lectures - including more or less interaction with the audience, and possibly subgroup work</li>
+  <li>Question answering - questions will be collected both in advance (via the conference website) and via chat at the time of the live sessions</li>
+  <li>A mixture of lectures and question answering</li>
+</ul>
+
+<p>To increase accessibility and inclusion, both for people with hearing impairments and for non-native English attendees, we plan to automatically caption some tutorials (pre-recordings and/or live sessions). Captions might be edited manually in some cases, so as to enhance their quality.</p>
+
+<p>The tutorial material (slides, pre-recordings and some recorded live sessions) will be archived at the ACL Anthology after the conference.</p>
+
+<h3>Registration and Fees</h3>
+
+<ul>
+  <li>You must <a href="https://acl2020.org/registration/">register</a> in order to attend ACL 2020 and access the ACL 2020 website portal, videos, and live events.</li>
+  <li>The registration to the main conference also covers all tutorials and workshops.</li>
+  <li>We kindly ask you to register explicitly to all the tutorials which you intend to participate in, so as to facilitate their organization.</li>
+  <li>The ACL 2020 registration fees are drastically reduced this year due to the event being virtual. <b>Early-bird registration</b> fees apply by <b>June 26</b> and amount to $125 for a regular registration and $50  for a student registration.</li>
+  <li>The additional ACL membership fees ($100 regular, $50 for students) are valid for the whole year (including EMNLP and AACL). They notably fund worldwide open access to the ACL Anthology.</li>
+</ul>]]></content><author><name>Tutorial Chairs</name><email>agata.savary@univ-tours.fr &amp;amp; yue.zhang@wias.org.cn</email></author><category term="blog" /><category term="virtual" /><category term="infrastructure" /><category term="tutorials" /></entry><entry><title type="html">Call for Live Microblogging Volunteers</title><link href="https://acl2020.org/blog/call-for-live-microblogging-volunteers/" rel="alternate" type="text/html" title="Call for Live Microblogging Volunteers" /><published>2020-06-16T00:00:00+00:00</published><updated>2020-06-16T00:00:00+00:00</updated><id>https://acl2020.org/blog/call-for-live-microblogging-volunteers</id><content type="html" xml:base="https://acl2020.org/blog/call-for-live-microblogging-volunteers/"><![CDATA[<p><i> Live tweeting ACL 2020 // Author Option to Opt-Out </i></p>
+
+<h2>Call for Volunteers</h2>
+
+<p>We are seeking volunteers to live tweet/live microblog ACL 2020 presentations with the goal of raising the visibility of ACL 2020 talks, across platforms and across languages. Specifically, we envision live microblogging of pre-recorded presentations (between when they become available and the end of the conference) and the live plenary sessions. Recognizing that bilingual live microblogging (listening in one language, writing in another) is a more difficult task, we nonetheless hope that the pre-recorded format might make it possible. By coordinating community live microblogging, we hope to increase coverage of ACL 2020 talks, as was done for NAACL 2019. We are particularly excited about the prospect of multilingual live microblogging to broaden participation in ACL and our associated community.</p>
+
+<p>If you are interested in participating, please email <a href="ACL2020publicity@uw.edu">ACL2020publicity@uw.edu</a> by <b>June 26</b>, with the following information:</p>
+<ul>
+  <li>The language(s) you’d like to microblog in</li>
+  <li>The platform(s) you’d like to use</li>
+  <li>The <a href="https://acl2020.org/calls/papers/#submissions">ACL 2020 areas</a> you are interested in microblogging about</li>
+</ul>
+
+<p>Never tried live microblogging before? That’s fine! We plan to run a brief tutorial ahead of the conference, following <a href="http://www.rctatman.com/Livetweeting-Guide/">this guide developed by Rachael Tatman</a>.</p>
+
+<h2>Author Option to Opt-Out</h2>
+
+<p>If, for any reason, an ACL 2020 author would prefer not to have their presentation live microblogged, we ask you to contact us with that information and the paper title at <a href="ACL2020publicity@uw.edu">ACL2020publicity@uw.edu</a> by June 29. We will ask our ACL 2020 live microbloggers to not cover your presentation.</p>]]></content><author><name>Publicity Chairs</name><email>ACL2020publicity@uw.edu</email></author><category term="blog" /><category term="volunteers," /><category term="twitter," /><category term="weibo" /></entry><entry><title type="html">ACL2020: General Conference Statistics</title><link href="https://acl2020.org/blog/general-conference-statistics/" rel="alternate" type="text/html" title="ACL2020: General Conference Statistics" /><published>2020-06-04T00:00:00+00:00</published><updated>2020-06-04T00:00:00+00:00</updated><id>https://acl2020.org/blog/general-conference-statistics</id><content type="html" xml:base="https://acl2020.org/blog/general-conference-statistics/"><![CDATA[<p>There is just over one month to go before ACL 2020 (July 5-10)! We recently announced the list of <a href="https://acl2020.org/program/accepted/">accepted papers</a> and wanted to start sharing some statistics around submissions, reviews and other interesting topics over the next month. In this blog post we focus on acceptance rates for ACL2020, comparison of rates with prior ACLs, track acceptance rates, and finally some statistics by country. We also encourage readers to read prior ACL statistics blogs, in particular the one for <a href="https://acl2019pcblog.fileli.unipi.it/?p=161">ACL 2019</a>.</p>
+
+<h2 id="1-general-statistics">1. General Statistics</h2>
+
+<p>ACL2020 had an acceptance rate of 22.7% based on 3,429 submissions and 779 accepted papers.  3,429 is a record number of submissions for ACL. To put that number in perspective, just two years ago the number of submissions was 1,544, or less than half of this year!  Ten years ago, there were “only” 956 submissions.</p>
+
+<p>Of the 779 accepted papers, 571 were long papers and 208 were short papers. Note that when Desk Rejects and Withdrawals are removed, 29 and 312 papers respectively, the acceptance rate is 25.2%.</p>
+
+<table>
+  <tr>
+    <th></th>
+    <th>Total Submissions</th>
+    <th>Accepted</th>
+    <th>% Accepted</th>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>3429</td>
+    <td>779</td>
+    <td>22.7%</td>
+  </tr>
+  <tr>
+    <td>Long</td>
+    <td>2244</td>
+    <td>571</td>
+    <td>25.4%</td>
+  </tr>
+  <tr>
+    <td>Short</td>
+    <td>1185</td>
+    <td>208</td>
+    <td>17.6%</td>
+  </tr>
+</table>
+
+<h2 id="2-comparison-with-prior-acls">2. Comparison with Prior ACLs</h2>
+
+<p>This year’s ACL is in line with acceptance rates with the most recent editions of the ACL.  ACL 2019 also had an acceptance rate of 22.7% with similar rates for long and short papers.  For a history of acceptance rates at the ACL, please visit the <a href="https://aclweb.org/aclwiki/Conference_acceptance_rates">ACL Wiki</a>.</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/acceptance-rates.png" title="">
+        <img src="/assets/images/blogs/acceptance-rates.png" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<h2 id="3-track-statistics">3. Track Statistics</h2>
+
+<p>Next, we break up the acceptance rate by track.  Machine Learning for NLP, Dialogue and Interactive Technologies, Machine Translation, Information Extraction and NLP Applications were the top five most popular tracks, with each having over 200 submissions.  Machine Learning for NLP had nearly 300 submissions (296). To show how much our field has grown, ACL 2002 received 258 submissions <i>total</i> across all tracks.</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/submissions-per-track.png" title="">
+        <img src="/assets/images/blogs/submissions-per-track.png" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<p>Acceptance rates for each track ranged from 17.9% to 41.7% as follows.</p>
+
+<table>
+  <tr>
+    <th>Track</th>
+    <th>Submissions</th>
+    <th>Accepted</th>
+    <th>% Accepted</th>
+  </tr>
+  <tr>
+    <td>Cognitive Modeling and Psycholinguistics</td>
+    <td>62</td>
+    <td>13</td>
+    <td>21.0</td>
+  </tr>
+  <tr>  
+    <td>Computational Social Science and Social Media</td>
+    <td>108</td>
+    <td>23</td>
+    <td>21.3</td>
+  </tr>
+  <tr>
+    <td>Desk Reject or Withdrawn</td>
+    <td>341</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Dialogue and Interactive Systems</td>
+    <td>250</td>
+    <td>62</td>
+    <td>24.8</td>
+  </tr>
+  <tr>
+    <td>Discourse and Pragmatics</td>
+    <td>56</td>
+    <td>10</td>
+    <td>17.9</td>
+  </tr>
+  <tr>
+    <td>Ethics and NLP</td>
+    <td>44</td>
+    <td>13</td>
+    <td>29.5</td>
+  </tr>
+  <tr>
+    <td>Generation</td>
+    <td>198</td>
+    <td>49</td>
+    <td>24.7</td>
+  </tr>
+  <tr>
+    <td>Information Extraction</td>
+    <td>227</td>
+    <td>52</td>
+    <td>22.9</td>
+  </tr>
+  <tr>
+    <td>Information Retrieval and Text Mining</td>
+    <td>86</td>
+    <td>20</td>
+    <td>23.3</td>
+  </tr>
+  <tr>
+    <td>Interpretability and Analysis of Models for NLP</td>
+    <td>95</td>
+    <td>29</td>
+    <td>30.5</td>
+  </tr>
+  <tr>
+    <td>Language Grounding to Vision, Robotics and Beyond</td>
+    <td>77</td>
+    <td>19</td>
+    <td>24.7</td>
+  </tr>
+  <tr>
+    <td>Machine Learning for NLP</td>
+    <td>296</td>
+    <td>67</td>
+    <td>22.6</td>
+  </tr>
+  <tr>
+    <td>Machine Translation</td>
+    <td>245</td>
+    <td>68</td>
+    <td>27.8</td>
+  </tr>
+  <tr>
+    <td>Multidisciplinary and Area Chair COI</td>
+    <td>58</td>
+    <td>19</td>
+    <td>32.8</td>
+  </tr>
+  <tr>
+    <td>NLP Applications</td>
+    <td>213</td>
+    <td>48</td>
+    <td>22.5</td>
+  </tr>
+  <tr>
+    <td>Phonology, Morphology and Word Segmentation</td>
+    <td>49</td>
+    <td>15</td>
+    <td>30.6</td>
+  </tr>
+  <tr>
+    <td>Question Answering</td>
+    <td>150</td>
+    <td>33</td>
+    <td>22.0</td>
+  </tr>
+  <tr>
+    <td>Resources and Evaluation</td>
+    <td>120</td>
+    <td>42</td>
+    <td>35.0</td>
+  </tr>
+  <tr>
+    <td>Semantics: Lexical</td>
+    <td>95</td>
+    <td>17</td>
+    <td>17.9</td>
+  </tr>
+  <tr>
+    <td>Semantics: Sentence Level</td>
+    <td>103</td>
+    <td>29</td>
+    <td>28.2</td>
+  </tr>
+  <tr>
+    <td>Semantics: Textual Inference and Other Areas of Semantics</td>
+    <td>81</td>
+    <td>24</td>
+    <td>29.6</td>
+  </tr>
+  <tr>
+    <td>Sentiment Analysis, Stylistic Analysis, and Argument Mining</td>
+    <td>161</td>
+    <td>33</td>
+    <td>20.5</td>
+  </tr>
+  <tr>
+    <td>Speech and Multimodality</td>
+    <td>62</td>
+    <td>16</td>
+    <td>25.8</td>
+  </tr>
+  <tr>
+    <td>Summarization</td>
+    <td>115</td>
+    <td>30</td>
+    <td>26.1</td>
+  </tr>
+  <tr>
+    <td>Syntax: Tagging, Chunking and Parsing</td>
+    <td>60</td>
+    <td>16</td>
+    <td>26.7</td>
+  </tr>
+  <tr>
+    <td>Theme</td>
+    <td>65</td>
+    <td>24</td>
+    <td>36.9</td>
+  </tr>
+  <tr>
+    <td>Theory and Formalism in NLP (Linguistic and Mathematical)</td>
+    <td>12</td>
+    <td>5</td>
+    <td>41.7</td>
+  </tr>
+  <tr>
+    <td><b>Total</b></td>
+    <td><b>3429</b></td>
+    <td><b>779</b></td>
+    <td><b>22.7</b></td>
+ </tr>
+</table>
+
+<h2 id="4-country-and-region-statistics">4. Country and Region Statistics</h2>
+
+<p>We follow ACL 2019 in extracting the country/region listed in Softconf by the contact author and calculating statistics on that set.   Please note that the country/region data is self-reported by each author.   There are 57 countries/regions represented in this subset.   Below we list the 25 countries/regions with the most submissions.  China led with 1,084, followed closely by the United States.   In ACL 2019, the United States had 820 submissions and China had 817.  Germany had the third most submissions then with 136.</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/submissions-per-country.png" title="">
+        <img src="/assets/images/blogs/submissions-per-country.png" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<p>Finally, we analyze the acceptance rates for each country/region, again based on contact author.  The following table lists all 57 countries/regions in alphabetical order.  In the end, 37 countries/regions have papers in the conference.   The five with the most accepted papers were the US (305), China (185), Great Britain (50), Germany (44), and Japan (24).  As observed by the ACL2019 Program Chairs, the distribution is too skewed for a fair comparison of acceptance rates.  As in their analysis, if we consider the top 15 countries/regions in terms of number of submissions, those with the highest acceptance rates were Israel (40.9%), Great Britain (31.1%), United States (29.4%), Germany (29.3%), and a tie between Hong Kong and Singapore, both with 26.7%.  This list is almost the same as last year, except Great Britain was not in the top five.</p>
+
+<table>
+  <tr>
+    <th>Country/Region</th>
+    <th>Code</th>
+    <th>Count</th>
+    <th>Accepted</th>
+    <th>% Accepted</th>
+  </tr>
+  <tr>
+    <td>Argentina</td>
+    <td>AR</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Australia</td>
+    <td>AU</td>
+    <td>51</td>
+    <td>12</td>
+    <td>23.5</td>
+  </tr>
+  <tr>
+    <td>Austria</td>
+    <td>AT</td>
+    <td>4</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Bangladesh</td>
+    <td>BD</td>
+    <td>4</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Belgium</td>
+    <td>BE</td>
+    <td>6</td>
+    <td>1</td>
+    <td>16.7</td>
+  </tr>
+  <tr>
+    <td>Brazil</td>
+    <td>BR</td>
+    <td>8</td>
+    <td>1</td>
+    <td>12.5</td>
+  </tr>
+  <tr>
+    <td>Bulgaria</td>
+    <td>BG</td>
+    <td>2</td>
+    <td>1</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Canada</td>
+    <td>CA</td>
+    <td>97</td>
+    <td>15</td>
+    <td>15.5</td>
+  </tr>
+  <tr>
+    <td>China</td>
+    <td>CN</td>
+    <td>1084</td>
+    <td>185</td>
+    <td>17.1</td>
+  </tr>
+  <tr>
+    <td>Croatia</td>
+    <td>HR</td>
+    <td>3</td>
+    <td>1</td>
+    <td>33.3</td>
+  </tr>
+  <tr>
+    <td>Czech Republic</td>
+    <td>CZ</td>
+    <td>11</td>
+    <td>1</td>
+    <td>9.1</td>
+  </tr>
+  <tr>
+    <td>Denmark</td>
+    <td>DK</td>
+    <td>20</td>
+    <td>6</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Egypt</td>
+    <td>EG</td>
+    <td>4</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Estonia</td>
+    <td>EE</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Finland</td>
+    <td>FI</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>France</td>
+    <td>FR</td>
+    <td>47</td>
+    <td>10</td>
+    <td>21.3</td>
+  </tr>
+  <tr>
+    <td>Germany</td>
+    <td>DE</td>
+    <td>150</td>
+    <td>44</td>
+    <td>29.3</td>
+  </tr>
+  <tr>
+    <td>Great Britain</td>
+    <td>GB</td>
+    <td>161</td>
+    <td>50</td>
+    <td>31.1</td>
+  </tr>
+  <tr>
+    <td>Greece</td>
+    <td>GR</td>
+    <td>5</td>
+    <td>2</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>Hong Kong</td>
+    <td>HK</td>
+    <td>45</td>
+    <td>12</td>
+    <td>26.7</td>
+  </tr>
+  <tr>
+    <td>Hungary</td>
+    <td>HU</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>India</td>
+    <td>IN</td>
+    <td>126</td>
+    <td>15</td>
+    <td>11.9</td>
+  </tr>
+  <tr>
+    <td>Iran</td>
+    <td>IR</td>
+    <td>8</td>
+    <td>1</td>
+    <td>12.5</td>
+  </tr>
+  <tr>
+    <td>Ireland</td>
+    <td>IE</td>
+    <td>19</td>
+    <td>6</td>
+    <td>31.6</td>
+  </tr>
+  <tr>
+    <td>Israel</td>
+    <td>IL</td>
+    <td>44</td>
+    <td>18</td>
+    <td>40.9</td>
+  </tr>
+  <tr>
+    <td>Italy</td>
+    <td>IT</td>
+    <td>40</td>
+    <td>7</td>
+    <td>17.5</td>
+  </tr>
+  <tr>
+    <td>Japan</td>
+    <td>JP</td>
+    <td>104</td>
+    <td>24</td>
+    <td>23.1</td>
+  </tr>
+  <tr>
+    <td>Kazakhstan</td>
+    <td>KZ</td>
+    <td>5</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Macao</td>
+    <td>MO</td>
+    <td>6</td>
+    <td>2</td>
+    <td>33.3</td>
+  </tr>
+  <tr>
+    <td>Mexico</td>
+    <td>MX</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Netherlands</td>
+    <td>NL</td>
+    <td>25</td>
+    <td>5</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>New Zealand</td>
+    <td>NZ</td>
+    <td>3</td>
+    <td>1</td>
+    <td>33.3</td>
+  </tr>
+  <tr>
+    <td>Norway</td>
+    <td>NO</td>
+    <td>10</td>
+    <td>1</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Pakistan</td>
+    <td>PK</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Peru</td>
+    <td>PE</td>
+    <td>2</td>
+    <td>1</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Poland</td>
+    <td>PL</td>
+    <td>14</td>
+    <td>1</td>
+    <td>7.1</td>
+  </tr>
+  <tr>
+    <td>Portugal</td>
+    <td>PT</td>
+    <td>8</td>
+    <td>1</td>
+    <td>12.5</td>
+  </tr>
+  <tr>
+    <td>Qatar</td>
+    <td>QA</td>
+    <td>7</td>
+    <td>1</td>
+    <td>14.3</td>
+  </tr>
+  <tr>
+    <td>Republic of Korea</td>
+    <td>KR</td>
+    <td>64</td>
+    <td>9</td>
+    <td>14.1</td>
+  </tr>
+  <tr>
+    <td>Romania</td>
+    <td>RO</td>
+    <td>6</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Russian Federation</td>
+    <td>RU</td>
+    <td>12</td>
+    <td>1</td>
+    <td>8.3</td>
+  </tr>
+  <tr>
+    <td>Rwanda</td>
+    <td>RW</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Saudi Arabia</td>
+    <td>SA</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Singapore</td>
+    <td>SG</td>
+    <td>60</td>
+    <td>16</td>
+    <td>26.7</td>
+  </tr>
+  <tr>
+    <td>Slovakia</td>
+    <td>SK</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Slovenia</td>
+    <td>SI</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>South Africa</td>
+    <td>ZA</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Spain</td>
+    <td>ES</td>
+    <td>22</td>
+    <td>9</td>
+    <td>40.9</td>
+  </tr>
+  <tr>
+    <td>Sri Lanka</td>
+    <td>LK</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Sweden</td>
+    <td>SE</td>
+    <td>6</td>
+    <td>2</td>
+    <td>33.3</td>
+  </tr>
+  <tr>
+    <td>Switzerland</td>
+    <td>CH</td>
+    <td>26</td>
+    <td>5</td>
+    <td>19.2</td>
+  </tr>
+  <tr>
+    <td>Taiwan</td>
+    <td>TW</td>
+    <td>39</td>
+    <td>6</td>
+    <td>15.4</td>
+  </tr>
+  <tr>
+    <td>Turkey</td>
+    <td>TR</td>
+    <td>4</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>United Arab Emirates</td>
+    <td>AE</td>
+    <td>2</td>
+    <td>1</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>United States</td>
+    <td>US</td>
+    <td>1039</td>
+    <td>305</td>
+    <td>29.4</td>
+  </tr>
+  <tr>
+    <td>Uruguay</td>
+    <td>UY</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Venezuela</td>
+    <td>VN</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+ </table>
+
+<p>We look forward to “seeing” you in a month in the first virtual ACL ever. Please do not forget to <a href="https://acl2020.org/registration/">register</a>.</p>]]></content><author><name>Program Chairs</name><email>ACL2020ProgramChairs@gmail.com</email></author><category term="blog" /><category term="papers" /><category term="tracks" /><category term="theme" /></entry><entry><title type="html">Accessible Presentations at ACL 2020</title><link href="https://acl2020.org/blog/Accessible-Presentations-at-ACL-2020/" rel="alternate" type="text/html" title="Accessible Presentations at ACL 2020" /><published>2020-05-30T00:00:00+00:00</published><updated>2020-05-30T00:00:00+00:00</updated><id>https://acl2020.org/blog/Accessible-Presentations-at-ACL-2020</id><content type="html" xml:base="https://acl2020.org/blog/Accessible-Presentations-at-ACL-2020/"><![CDATA[<p>Virtual  presentations will change some of the experience of ACL, but not the imperative to make your work more accessible to a wide audience. The prerecorded nature of many of these talks will even create new opportunities for inclusion. Talks can be attended in other time zones, be rewinded to listen again, and captioned through the SlidesLive platform.</p>
+
+<p>Many accommodations to make your presentations more accessible still depend on you. To ensure your work reaches a broad and diverse audience, please consider the following tips.</p>
+
+<p><strong><em>While preparing slides:</em></strong></p>
+
+<ul>
+  <li>
+    <p><strong>Avoid relying solely on visuals</strong>: Graphics and animations play an important role during presentations, but presenters should be mindful that relying just on a visual channel for communication can limit its access. When using graphics to convey critical aspects of your work, also provide a textual description so that your content is more accessible.</p>
+  </li>
+  <li>
+    <p><strong>Use accessible colors</strong>: To ensure your visuals are more accessible, please use a color-blind friendly palette. Similarly, choose high resolution images for your visuals and use text color(s) with sufficient contrast against its background color for better readability. For some resources that may help you further, see the <a href="https://acl2020.org/blog/accessibility-for-camera-ready/">Accessibility for Camera-Ready Papers blog post</a>.</p>
+  </li>
+  <li>
+    <p><strong>Use accessible fonts</strong>: Select font styles and font sizes that facilitate reading for everyone, including  for  researchers with dyslexia. For instance, avoid using ALL CAPS.</p>
+  </li>
+  <li>
+    <p><strong>Ensure screen reader friendliness</strong>: Many researchers with visual impairments use screen reader software to read aloud the content. If you will be releasing the slides publicly, please consider making them accessible for screen readers. Most presentation platforms support this functionality such as <a href="https://support.microsoft.com/en-ie/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25#bkmk_macaltvisuals&amp;PickTab=macOS">Microsoft PowerPoint</a>, <a href="https://support.google.com/docs/answer/6199477?hl=en">Google Slides</a>, and <a href="https://support.apple.com/en-us/HT210563">Apple Keynote</a>.</p>
+  </li>
+  <li>
+    <p><strong>Minimize visual complexity</strong>: Try to reduce the amount of content (text and visuals) in your slides, since visual complexity can be overwhelming and make it more difficult for your audience to absorb information during your presentation. For audience members who are deaf or hard of hearing, or who have difficulty following spoken English, there can be too little time to view the dense visuals on a slide while reading captions or watching sign-language interpretation.</p>
+  </li>
+</ul>
+
+<p><strong><em>During the presentation:</em></strong></p>
+
+<ul>
+  <li>
+    <p><strong>Describe essential content verbally</strong>: Describe all the text/visuals on your slides to ensure that conference attendees with disabilities don’t miss out on any critical information. For example, if you have a results table, don’t simply say, “Here are our results,” and expect the audience to read the table quickly; instead, try describing the table and its highlights, for instance, by describing how well your system performed. If the visual is decorative, then skip describing it during the talk as it may be a distraction.</p>
+  </li>
+  <li>
+    <p><strong>Adjust to a reasonable pace</strong>: For information-rich slides in your presentation, you should try to allow people some extra time to view and understand the information.</p>
+  </li>
+  <li>
+    <p><strong>Be clear</strong>: Speak at an adequate speed and clearly. Avoid having to rush through your content. This is not just important for the listeners but also for sign language interpreters who may be supporting your talk. Look straight into the camera, so your lips will be visible to anyone relying on lipreading.</p>
+  </li>
+  <li>
+    <p><strong>Avoid ambient noise</strong>: When recording your talk, please choose a quiet environment without noise in the background.</p>
+  </li>
+</ul>
+
+<p>We also recommend reviewing the <a href="http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-presentation-guide/">ACM SIGACCESS Accessible Presentation Guide</a>, which also points to this <a href="https://www.youtube.com/watch?v=L9TxhGv91kc">video resource with examples</a>.</p>
+
+<p><b>Additional relevant links for exploration </b> <br /></p>
+
+<ul>
+  <li><a href="https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide">Dyslexia friendly style guide from the British Dyslexia Association</a></li>
+</ul>]]></content><author><name>D&amp;amp;I Accessibility Chairs</name><email>acl2020-diversity-inclusion-chairs@googlegroups.com</email></author><category term="blog" /><category term="diversity-inclusion," /><category term="accessibility" /></entry><entry><title type="html">Introduction to the Main Conference Infrastructure</title><link href="https://acl2020.org/blog/intro-to-conference-infrastructure/" rel="alternate" type="text/html" title="Introduction to the Main Conference Infrastructure" /><published>2020-05-29T00:00:00+00:00</published><updated>2020-05-29T00:00:00+00:00</updated><id>https://acl2020.org/blog/intro-to-conference-infrastructure</id><content type="html" xml:base="https://acl2020.org/blog/intro-to-conference-infrastructure/"><![CDATA[<p><b>Program Chairs (Joyce Chai, Natalie Schluter, and Joel Tetreault) and General Chair (Dan Jurafsky), for the entire Organizing Committee</b></p>
+
+<p>We’re excited to give you some more details on the virtual infrastructure for ACL 2020!</p>
+
+<p>In this post, we’ll summarize the main conference, which will take place July 6-8; more information on tutorials (July 5) and workshops (July 9-10) later!</p>
+
+<p>In designing the conference, we drew heavily on the infrastructure pioneered by Sasha Rush and the ICLR organization committee at ICLR 2020, together with lots of advice from the organizers of other virtual conferences and the ACM. We will be using <a href="https://slideslive.com/">SlidesLive</a> for pre-recorded talks, Zoom for live sessions, RocketChat for chat, and a special web portal. Our goal was to enable participation around the world and maximize inclusion, engagement, and learning in a safe environment.</p>
+
+<p>There will be 909 presentations at the main conference (779 from ACL, 7 from Computational Linguistics, 31 from Transaction of ACL, 43 demos, and 49 Student Research Workshop papers). Each will have a pre-recorded talk (long/demo/SRW papers 12 minutes, short papers 7 minutes), two live Q&amp;A video sessions at different times, and a linked RocketChat channel. Authors are already being emailed instructions by SlidesLive about how to record and upload their talks.</p>
+
+<p>In addition to the talks and Q&amp;A sessions, there will be livestreamed keynote presentations, award sessions, and business meetings, as well as mentoring and other sessions and sponsor booths.</p>
+
+<p>Each day we will have 10 video Q&amp;A sessions in different time zones across the world, where two sessions are grouped back-to-back as shown in the following table. We will also have a 2-hour plenary session (7am - 9am PDT) for keynote talks, award sessions, and business meetings.</p>
+
+<p>(The choice of time for the plenary session is based on guidelines from the ACM. While there is no ideal time, this particular time slot allows most of the world to participate before midnight and after 7am.)</p>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/session-timezones.png" title="">
+        <img src="/assets/images/blogs/session-timezones.png" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<p>Legend:</p>
+<ul>
+  <li>The above table lists the 10 one-hour live QA sessions as well as the two-hour plenary session. Please use the map below if your time zone is not reflected.</li>
+  <li>UTC+0 times are marked in bold</li>
+  <li>+1 means a day ahead of UTC, -1 means a day behind</li>
+</ul>
+
+<figure class=" ">
+  
+    
+      <a href="/assets/images/blogs/timezones.PNG" title="">
+        <img src="/assets/images/blogs/timezones.PNG" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<p><b>Papers and Live Video Q&amp;A Sessions</b></p>
+<ul>
+  <li>All accepted papers will have a pre-recorded video talk (12 minutes for long papers, demos, and Student Research Workshop papers; 7 minutes for short papers) and slides available for your access. TACL and CL papers presented at the conference are treated the same as a main conference long paper.  Videos will be captioned, and videos and slides will be available before the start of the conference and you can watch them at your convenience.</li>
+  <li>Each Video Q&amp;A session will be organized by parallel tracks for specific topic areas (e.g., semantics, machine translation, etc.). Each paper in the track will have a separate Zoom room where you can engage in live discussions with the authors. You can jump between Zoom rooms during the session.</li>
+  <li>You can also use RocketChat to ask written questions of the authors.</li>
+  <li>To provide better access across the globe, each paper will be allocated two Q&amp;A sessions at different times.</li>
+</ul>
+
+<p><b>Plenary Sessions</b></p>
+<ul>
+  <li>The two <a href="https://acl2020.org/program/keynotes/">Keynote talks</a> will be livestreamed at their designated time. The talk will be 45 minutes followed by at least a 30 minutes live Q&amp;A session with the speaker. You can post your questions via chat, and a moderator will read out the questions to the speaker during live Q&amp;A.</li>
+  <li>Award sessions include livestreamed talks and live award ceremonies for the Lifetime Achievement Award, Distinguished Service Award, and Test of the Time Awards.</li>
+  <li>The Best Paper ceremony where we will announce the best paper awards.</li>
+  <li>Business meetings will be a mix of pre-recorded short presentations and live discussions organized by the ACL Executive board. We strongly encourage you to participate and provide your feedback on various issues the ACL executive board is working on! The session chair will moderate the discussion, and you can raise your hand using the Zoom interface to participate.</li>
+</ul>
+
+<p><b>Student Research Workshop (SRW)</b></p>
+<ul>
+  <li>There are 49 papers accepted to the SRW at ACL 2020.</li>
+  <li>All accepted papers will have a pre-recorded video talk of 12 minutes.</li>
+  <li>The live Q&amp;A sessions for each paper will take place July 6th-8th, alongside those of the main conference.</li>
+  <li>The SRW will use the same platforms as the main conference (SlideLive, Zoom, RocketChat).</li>
+</ul>
+
+<p><b>Demonstrations</b></p>
+<ul>
+  <li>There are 43 demonstration papers at the main conference.</li>
+  <li>Each demo paper will have a pre-recorded 12-minute talk presenting the details about the demonstration, two live Q&amp;A video sessions for about 30 minutes at different times, and a linked RocketChat channel.</li>
+</ul>
+
+<p><b>Registration and Fees</b></p>
+<ul>
+  <li>You must <a href="https://acl2020.org/registration/">register</a> in order to attend ACL 2020 and access the ACL 2020 website portal, videos, and live events. (But of course the papers will be available to everyone at the open access ACL Anthology; at some point later this summer the talk videos will join them there at the Anthology as well).</li>
+  <li>The ACL 2020 registration fees are drastically reduced this year, which we hope will greatly increase inclusion! Regular registration is $125 and student registration is $50.</li>
+  <li>The low fees <b>include</b> workshops and tutorials. (You still need to register for workshops/tutorials but there is no additional charge.)</li>
+  <li>As usual, ACL Membership for the year is also required ($100 regular, $50 for students). ACL membership fees are valid for the whole year (meaning EMNLP and AACL!). Furthermore, it’s your membership fees that fund all our really important open access efforts, such as keeping our journals and the Anthology open access to the world with no charge!</li>
+</ul>]]></content><author><name>Program Chairs</name><email>ACL2020ProgramChairs@gmail.com</email></author><category term="blog" /><category term="virtual" /><category term="program" /></entry></feed>
